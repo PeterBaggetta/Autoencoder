@@ -6,6 +6,7 @@
 * [Performace Evaluations](#performance-evaluations)
 * [Results](#results-video)
 * [Setup](#setup)
+* [Further Readings & Clarification](#further-readings-&-clarification)
 
 ## General Information
 - This repository holds the code implementation for the auto-encoder in python and C.
@@ -28,7 +29,7 @@ https://user-images.githubusercontent.com/104271419/228343547-c19e85a0-1b98-4200
 
 - The C code for this project was created using Visual Studio Code as the IDE and the extension [Code Runner](https://github.com/formulahendry/vscode-code-runner) was used to automatically compile and run the C code to keep compile time short.
 
-## Further Readings
+## Further Readings & Clarification
 - For a better explanation on the implementation of the code, how an auto-encoder functions, and its relation to edge computing. Please refer to our paper that has been published.
 
 [Paper Coming Soon]()
